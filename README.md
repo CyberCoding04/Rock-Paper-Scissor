@@ -1,2 +1,4 @@
 # Rock-Paper-Scissor
-Rock Paper Scissor Game
+Rock Paper Scissor Game in Python
+
+Please Watch Youtube Video - (Coming Soon)
